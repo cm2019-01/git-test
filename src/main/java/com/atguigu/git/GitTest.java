@@ -13,5 +13,6 @@ public class GitTest {
         System.out.println("hello git = " + "hello git");
         System.out.println("hello git2= " + "hello git2");
         System.out.println("hello git3= " + "hello git3");
+        System.out.println("hello git4= " + "hello git4");
     }
 }
